@@ -1,0 +1,542 @@
+[
+    {
+        "column_name": "Response ID",
+        "data_type": "int64",
+        "not_null_count": "231"
+    },
+    {
+        "column_name": "Languages you use comfortably",
+        "data_type": "object",
+        "not_null_count": "209"
+    },
+    {
+        "column_name": "What is your date of birth?",
+        "data_type": "object",
+        "not_null_count": "217"
+    },
+    {
+        "column_name": "Best contact method for communication",
+        "data_type": "object",
+        "not_null_count": "211"
+    },
+    {
+        "column_name": "Which tribal affiliation do you identify with?",
+        "data_type": "object",
+        "not_null_count": "212"
+    },
+    {
+        "column_name": "Which religion do you follow?",
+        "data_type": "object",
+        "not_null_count": "214"
+    },
+    {
+        "column_name": "Sex",
+        "data_type": "object",
+        "not_null_count": "225"
+    },
+    {
+        "column_name": "Do you identify as queer, gay, bisexual, lesbian, transgender, or asexual?",
+        "data_type": "object",
+        "not_null_count": "202"
+    },
+    {
+        "column_name": "Describe your relationship status",
+        "data_type": "object",
+        "not_null_count": "213"
+    },
+    {
+        "column_name": "Is your partner deaf?",
+        "data_type": "object",
+        "not_null_count": "139"
+    },
+    {
+        "column_name": "Current occupation status",
+        "data_type": "object",
+        "not_null_count": "219"
+    },
+    {
+        "column_name": "What kind job do you have?",
+        "data_type": "object",
+        "not_null_count": "190"
+    },
+    {
+        "column_name": "How much money do you earn a month? (Salary) [It is in Niara currency]",
+        "data_type": "float64",
+        "not_null_count": "189"
+    },
+    {
+        "column_name": "How many jobs do you have?",
+        "data_type": "float64",
+        "not_null_count": "165"
+    },
+    {
+        "column_name": "How many days a week do you work?",
+        "data_type": "float64",
+        "not_null_count": "173"
+    },
+    {
+        "column_name": "Education",
+        "data_type": "object",
+        "not_null_count": "220"
+    },
+    {
+        "column_name": "How much do you pay yearly for rent or mortage?",
+        "data_type": "float64",
+        "not_null_count": "158"
+    },
+    {
+        "column_name": "Do you own a house?",
+        "data_type": "object",
+        "not_null_count": "213"
+    },
+    {
+        "column_name": "Do you have access to clean water?",
+        "data_type": "object",
+        "not_null_count": "225"
+    },
+    {
+        "column_name": "Do you have access to wash your hands?",
+        "data_type": "object",
+        "not_null_count": "219"
+    },
+    {
+        "column_name": "Do you feel like you have enough to eat?",
+        "data_type": "object",
+        "not_null_count": "219"
+    },
+    {
+        "column_name": "Do you feel that what you eat supports your health needs?",
+        "data_type": "object",
+        "not_null_count": "214"
+    },
+    {
+        "column_name": "- How often do you eat fresh fruit or vegetables?",
+        "data_type": "object",
+        "not_null_count": "198"
+    },
+    {
+        "column_name": "Is healthy food expensive?",
+        "data_type": "object",
+        "not_null_count": "215"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - I don't have the transportation to go shopping for healthy food",
+        "data_type": "object",
+        "not_null_count": "46"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - I don't have the time to shop for, and prepare healthy food",
+        "data_type": "object",
+        "not_null_count": "22"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - I don't know how to cook and prepare healthy meals",
+        "data_type": "object",
+        "not_null_count": "12"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - I don't have the supplies and equipment I'd need to cook healthy food",
+        "data_type": "object",
+        "not_null_count": "63"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - The others in my household do not eat healthy",
+        "data_type": "object",
+        "not_null_count": "8"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - I am not ready to change my eating habits",
+        "data_type": "object",
+        "not_null_count": "10"
+    },
+    {
+        "column_name": "Why are you not eating healthy foods? - Other",
+        "data_type": "object",
+        "not_null_count": "31"
+    },
+    {
+        "column_name": "Do you have access to computer/laptop?",
+        "data_type": "object",
+        "not_null_count": "216"
+    },
+    {
+        "column_name": "Do you have access to internet?",
+        "data_type": "object",
+        "not_null_count": "216"
+    },
+    {
+        "column_name": "How would you rate your quality of life?",
+        "data_type": "object",
+        "not_null_count": "208"
+    },
+    {
+        "column_name": "How satisfied are you with your capacity for work?",
+        "data_type": "object",
+        "not_null_count": "202"
+    },
+    {
+        "column_name": "How satisfied are you with your ability to perform your daily living activities?",
+        "data_type": "object",
+        "not_null_count": "206"
+    },
+    {
+        "column_name": "Do you have enough energy for everyday life?",
+        "data_type": "object",
+        "not_null_count": "208"
+    },
+    {
+        "column_name": "How satisfied are you with your sleep?",
+        "data_type": "object",
+        "not_null_count": "207"
+    },
+    {
+        "column_name": "- How much do you need any medical treatment to function in your daily life?",
+        "data_type": "object",
+        "not_null_count": "196"
+    },
+    {
+        "column_name": "How much do you enjoy life?",
+        "data_type": "object",
+        "not_null_count": "202"
+    },
+    {
+        "column_name": "How often do you have negative feelings, such as blue mood, despair, anxiety, or depression?",
+        "data_type": "object",
+        "not_null_count": "204"
+    },
+    {
+        "column_name": "To what extent do you feel your life to be meaningful?",
+        "data_type": "object",
+        "not_null_count": "200"
+    },
+    {
+        "column_name": "Are you able to accept your bodily appearance?",
+        "data_type": "object",
+        "not_null_count": "203"
+    },
+    {
+        "column_name": "How satisfied are you with yourself?",
+        "data_type": "object",
+        "not_null_count": "204"
+    },
+    {
+        "column_name": "How satisfied are you with your access to health services?",
+        "data_type": "object",
+        "not_null_count": "210"
+    },
+    {
+        "column_name": "How available to you is the information that you need in your day-to-day life?",
+        "data_type": "object",
+        "not_null_count": "206"
+    },
+    {
+        "column_name": "How safe do you feel in your daily life?",
+        "data_type": "object",
+        "not_null_count": "211"
+    },
+    {
+        "column_name": "Have you enough money to meet your needs?",
+        "data_type": "object",
+        "not_null_count": "215"
+    },
+    {
+        "column_name": "How healthy is your physical environment?",
+        "data_type": "object",
+        "not_null_count": "209"
+    },
+    {
+        "column_name": "How satisfied are you with the conditions of your living place?",
+        "data_type": "object",
+        "not_null_count": "206"
+    },
+    {
+        "column_name": "How satisfied are you with transportation?",
+        "data_type": "object",
+        "not_null_count": "209"
+    },
+    {
+        "column_name": "How satisfied are you with your personal relationships",
+        "data_type": "object",
+        "not_null_count": "205"
+    },
+    {
+        "column_name": "How satisfied are you with your sex life?",
+        "data_type": "object",
+        "not_null_count": "205"
+    },
+    {
+        "column_name": "How satisfied are you with the support you get from your friends?",
+        "data_type": "object",
+        "not_null_count": "204"
+    },
+    {
+        "column_name": "In the event of violence, such as a gun shooting or abuse, whom do you communicate with?",
+        "data_type": "object",
+        "not_null_count": "172"
+    },
+    {
+        "column_name": "Did you lose a parent through divorce, abandonment, death, or other reason?",
+        "data_type": "object",
+        "not_null_count": "200"
+    },
+    {
+        "column_name": "Did your parents or adults in your home ever hit, punch, beat, or threaten to harm each other?",
+        "data_type": "object",
+        "not_null_count": "199"
+    },
+    {
+        "column_name": "Did you live with anyone who went to jail or prison?",
+        "data_type": "object",
+        "not_null_count": "197"
+    },
+    {
+        "column_name": "Did a parent or adult in your home ever swear at you, insult you, or put you down?",
+        "data_type": "object",
+        "not_null_count": "198"
+    },
+    {
+        "column_name": "- Did you see or hear someone being stabbed or shot?",
+        "data_type": "object",
+        "not_null_count": "201"
+    },
+    {
+        "column_name": "- Did you experience the deliberate destruction of your home?",
+        "data_type": "object",
+        "not_null_count": "198"
+    },
+    {
+        "column_name": "- Were you beaten up by soliders, police, militia, bandits, boko haram, or thugs?",
+        "data_type": "object",
+        "not_null_count": "198"
+    },
+    {
+        "column_name": "At what age did you begin experiencing hearing loss?",
+        "data_type": "float64",
+        "not_null_count": "189"
+    },
+    {
+        "column_name": "What did you need to support your hearing loss experience?",
+        "data_type": "object",
+        "not_null_count": "150"
+    },
+    {
+        "column_name": "How old were you when you learned sign language?",
+        "data_type": "float64",
+        "not_null_count": "188"
+    },
+    {
+        "column_name": "Do you want to learn sign language?",
+        "data_type": "object",
+        "not_null_count": "205"
+    },
+    {
+        "column_name": "How fluent are you in sign language?",
+        "data_type": "object",
+        "not_null_count": "204"
+    },
+    {
+        "column_name": "Where did you learn sign language?",
+        "data_type": "object",
+        "not_null_count": "196"
+    },
+    {
+        "column_name": "What tools or devices do you use for your hearing? - Hearing Aids",
+        "data_type": "object",
+        "not_null_count": "89"
+    },
+    {
+        "column_name": "What tools or devices do you use for your hearing? - Cochlear Implants",
+        "data_type": "object",
+        "not_null_count": "10"
+    },
+    {
+        "column_name": "What tools or devices do you use for your hearing? - Other",
+        "data_type": "object",
+        "not_null_count": "47"
+    },
+    {
+        "column_name": "What age did you get your hearing aid?",
+        "data_type": "float64",
+        "not_null_count": "55"
+    },
+    {
+        "column_name": "Do you still wear hearing aids?",
+        "data_type": "object",
+        "not_null_count": "88"
+    },
+    {
+        "column_name": "Do you have access to battery replacements or repairs for your assisted hearing devices?",
+        "data_type": "object",
+        "not_null_count": "135"
+    },
+    {
+        "column_name": "What age did you have your cochlear implant surgery?",
+        "data_type": "float64",
+        "not_null_count": "0"
+    },
+    {
+        "column_name": "- How often do you use cochlear implant?",
+        "data_type": "object",
+        "not_null_count": "2"
+    },
+    {
+        "column_name": "Do you have access to speech and/or auditory therapy?",
+        "data_type": "object",
+        "not_null_count": "203"
+    },
+    {
+        "column_name": "List all the locations in your area that offer services, gatherings, and events related to the deaf community (including centers, agencies, churches, festivals, schools, gatherings, etc).",
+        "data_type": "object",
+        "not_null_count": "137"
+    },
+    {
+        "column_name": "What are the three most significant challenges you believe deaf people face in your area?",
+        "data_type": "object",
+        "not_null_count": "163"
+    },
+    {
+        "column_name": "Is transportation affordable for you?",
+        "data_type": "object",
+        "not_null_count": "216"
+    },
+    {
+        "column_name": "Do you find hearing organizations accessible for you to join? (e.g., do they provide interpreters?)",
+        "data_type": "object",
+        "not_null_count": "201"
+    },
+    {
+        "column_name": "Who is responsible for covering the cost of communication access, such as interpreters?",
+        "data_type": "object",
+        "not_null_count": "163"
+    },
+    {
+        "column_name": "If you require communication access at work, can you get it?",
+        "data_type": "object",
+        "not_null_count": "214"
+    },
+    {
+        "column_name": "If you require communication access at school, can you get it?",
+        "data_type": "object",
+        "not_null_count": "211"
+    },
+    {
+        "column_name": "If you require communication access at social events (e.g., festivals, weddings, religious gatherings), can you get it?",
+        "data_type": "object",
+        "not_null_count": "172"
+    },
+    {
+        "column_name": "If you require communication access in healthcare, can you get it?",
+        "data_type": "object",
+        "not_null_count": "176"
+    },
+    {
+        "column_name": "Can you communicate with your doctor?",
+        "data_type": "object",
+        "not_null_count": "180"
+    },
+    {
+        "column_name": "Can you afford the healthcare you need?",
+        "data_type": "object",
+        "not_null_count": "175"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Typhoid",
+        "data_type": "object",
+        "not_null_count": "33"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Malaria",
+        "data_type": "object",
+        "not_null_count": "89"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - HIV/AIDS",
+        "data_type": "object",
+        "not_null_count": "3"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Cancer",
+        "data_type": "float64",
+        "not_null_count": "0"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Diabetes",
+        "data_type": "object",
+        "not_null_count": "3"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - High Blood Pressure",
+        "data_type": "object",
+        "not_null_count": "23"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Liver disease",
+        "data_type": "object",
+        "not_null_count": "2"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Ulcers",
+        "data_type": "object",
+        "not_null_count": "27"
+    },
+    {
+        "column_name": "Do you have any other health disorders or issues? - Other",
+        "data_type": "object",
+        "not_null_count": "18"
+    },
+    {
+        "column_name": "How do you protect yourself from Malaria?",
+        "data_type": "object",
+        "not_null_count": "113"
+    },
+    {
+        "column_name": "How satisfied are you with your health?",
+        "data_type": "object",
+        "not_null_count": "160"
+    },
+    {
+        "column_name": "Can you independently decide what you need for your health?",
+        "data_type": "object",
+        "not_null_count": "157"
+    },
+    {
+        "column_name": "Are there enough interpreters?",
+        "data_type": "object",
+        "not_null_count": "158"
+    },
+    {
+        "column_name": "Are interpreters qualified and clear?",
+        "data_type": "object",
+        "not_null_count": "175"
+    },
+    {
+        "column_name": "Do you trust interpreters to work with you?",
+        "data_type": "object",
+        "not_null_count": "175"
+    },
+    {
+        "column_name": "Do you feel that filling out a form to make a complaint about lack of accommodation service is helpful?",
+        "data_type": "object",
+        "not_null_count": "160"
+    },
+    {
+        "column_name": "In a crisis like natural disasters or disease, are you confident about accessing necessary information and communication?",
+        "data_type": "object",
+        "not_null_count": "170"
+    },
+    {
+        "column_name": "In a crisis like natural disasters or disease, where do you get necessary information and communication?",
+        "data_type": "object",
+        "not_null_count": "125"
+    },
+    {
+        "column_name": "Throughout your lifetime, how often have you felt discriminated against by others because you are deaf?",
+        "data_type": "object",
+        "not_null_count": "154"
+    },
+    {
+        "column_name": "How do you communicate with your family members?",
+        "data_type": "object",
+        "not_null_count": "130"
+    }
+]
